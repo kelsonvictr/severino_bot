@@ -1,0 +1,6 @@
+telepot
+requests
+prettytable
+Pillow
+sqlalchemy
+psycopg2
